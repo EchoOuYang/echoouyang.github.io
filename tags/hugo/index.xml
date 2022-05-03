@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>技术文章 on 住进山林</title>
-    <link>https://echoouyang.github.io/post/blog/</link>
-    <description>Recent content in 技术文章 on 住进山林</description>
+    <title>hugo on 住进山林</title>
+    <link>https://echoouyang.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on 住进山林</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sun, 01 May 2022 21:41:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2019 22:37:10 +0800</lastBuildDate>
     
-	<atom:link href="https://echoouyang.github.io/post/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://echoouyang.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Epoll的实现原理</title>
-      <link>https://echoouyang.github.io/post/blog/epoll%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/</link>
-      <pubDate>Sun, 01 May 2022 21:41:00 +0800</pubDate>
-      
-      <guid>https://echoouyang.github.io/post/blog/epoll%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>hugo搭建个人博客</title>
